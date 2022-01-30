@@ -12,11 +12,22 @@ Language: Indonesian (Native), English (Basic), Arabic (Basic)
 Terimakasih banyak Pak Dhika udah masuk showcase (saran2 Pak Dhika sudah diterapkan :D) https://www.youtube.com/watch?v=anO_JXHpJD0
   
   
-Changelog on this landing page (1st September 2021) :
+Changelog:
+Per 1 September 2021
 - Fix topnav margin at mobile device
 - Added progress bar at Skills section
 - Added animation (box-shadow) at Portofolio section
 - Added desc. image at Portofolio section
+  
+Per 30 January 2022
+Changelog:
+- Add an icon at "Blog" button
+- Change layout at About Me Section
+- Change layout at Get Closer from text into png image
+- Add certificates section
+- Move portofolio section into separate page
+
+
 </p>
 ## Some of my Github Stats
 <p align=left> <img src=https://komarev.com/ghpvc/?username=mrizqighana alt=mrizqighana /> </p>
