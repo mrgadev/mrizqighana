@@ -29,8 +29,6 @@ Changelog:
 
 
 </p>
-## Some of my Github Stats
-<p align=left> <img src=https://komarev.com/ghpvc/?username=mrizqighana alt=mrizqighana /> </p>
 
 ## Some of my Github Stats
 <p align=left> <img src=https://komarev.com/ghpvc/?username=mrizqighana alt=mrizqighana /> </p>
