@@ -32,9 +32,6 @@ Changelog:
 ## Some of my Github Stats
 <p align=left> <img src=https://komarev.com/ghpvc/?username=mrizqighana alt=mrizqighana /> </p>
 
-[![Github stats](https://github-readme-stats.vercel.app/api?username=mrizqighana&show_icons=true&include_all_commits=true)](https://github.com/mrizqighana/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrizqighana&layout=compact)](https://github.com/mrizqighana/github-readme-stats)
-
 ## Some of my Github Stats
 <p align=left> <img src=https://komarev.com/ghpvc/?username=mrizqighana alt=mrizqighana /> </p>
 
@@ -43,5 +40,5 @@ Changelog:
 
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mrizqighana&repo=nurussalaf)](https://github.com/mrizqighana/nurussalaf)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mrizqighana&repo=kalkulator)](https://github.com/mrizqighana/kalkulator)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mrizqighana&repo=carty)](https://github.com/mrizqighana/carty)
 <p>Sorry in advance, because this repository was accidentally deleted</p>
