@@ -44,4 +44,4 @@ Changelog:
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mrizqighana&repo=nurussalaf)](https://github.com/mrizqighana/nurussalaf)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mrizqighana&repo=kalkulator)](https://github.com/mrizqighana/kalkulator)
-Sorry in advance, because this repository was accidentally deleted
+<p>Sorry in advance, because this repository was accidentally deleted</p>
